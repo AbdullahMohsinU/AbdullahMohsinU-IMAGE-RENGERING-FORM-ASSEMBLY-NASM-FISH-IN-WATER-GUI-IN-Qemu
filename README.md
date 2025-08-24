@@ -4,5 +4,7 @@
 
 ## Overview
 I conducted an experiment to understand how image rendering actually works using Assembly (NASM). This project demonstrates rendering a fish in water using a graphical interface in QEMU.
-## SCREENSHOT OF IMAGE
+## SCREENSHOT OF IMAGE  (BEFORE)
 ![Fish in Water GUI](FISHY.png)
+## SCREENSHOT OF IMAGE  (AFTER)
+![Fish in Water GUI](update.png)
